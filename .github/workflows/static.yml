@@ -19,4 +19,4 @@ jobs:
         server: 115.186.136.48
         username: "kashif"
         password: "123456789"
-        server-dir: '/'
+        server-dir: '/workflow'
